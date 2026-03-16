@@ -111,7 +111,7 @@ Both full and partial refunds are supported.
 ## ❓ FAQ
 
 **Do I need a Payee merchant account?**  
-Yes. Sign up at [payee.com](https://payee.com) to obtain your API credentials.
+Yes. Sign up at [payee.net.au](https://payee.net.au) to obtain your API credentials.
 
 **Is SSL required?**  
 Yes. An active SSL certificate is required for live payments.
@@ -149,7 +149,7 @@ This plugin is licensed under the [GNU General Public License v2.0](https://www.
 ## 🤝 Support
 
 - 📧 Email: support@payee.com
-- 🌐 Website: [payee.com](https://payee.com.au)
+- 🌐 Website: [payee.net.au](https://payee.net.au)
 - 📖 Documentation: [docs.payee.com](https://docs.payee.com.au)
 - 🐛 Bug reports: [GitHub Issues](https://github.com/PayeeEcommerce/WooCommerce-Plugin/issues)
 ```
